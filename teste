@@ -1,1 +1,11 @@
-Este é um texto para ser salvo e depois ser visto fora do repositório
+\textsc{u}ma part\'icula percorre $30m$ com velocidade escalar media de $36Km/h$. \textsc{e}m quanto tempo faz este percurso?
+\begin{enumerate}[(a)]
+\begin{multicols}{2}
+\item $5s$
+\item $4s$
+\item $3s$
+\item $10s$
+\item $2s$
+\end{multicols}
+\end{enumerate}
+## 
