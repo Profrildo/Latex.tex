@@ -1,3 +1,4 @@
+%[preambulo]
 \textsc{u}ma part\'icula percorre $30m$ com velocidade escalar media de $36Km/h$. \textsc{e}m quanto tempo faz este percurso?
 \begin{enumerate}[(a)]
 \begin{multicols}{2}
@@ -6,6 +7,20 @@
 \item $3s$
 \item $10s$
 \item $2s$
+\end{multicols}
+\end{enumerate}
+## \textsc{o}bserve a figura abaixo e calcule o valor de $y$.
+\begin{center}
+\includegraphics[width=8cm, height=5cm]{mat1}
+\end{center}
+## \textsc{u}m autom\'ovel viaja a $20Km/h$ durante a primeira hora e a $30Km/h$ nas duas horas seguintes. \textsc{s}ua velocidade m\'edia durante as tr\^es primeiras horas, em $Km/h$, \'e:
+\begin{enumerate}[(a)]
+\begin{multicols}{2}
+\item 20
+\item 30
+\item 31
+\item 25
+\item 27
 \end{multicols}
 \end{enumerate}
 ## 
